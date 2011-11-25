@@ -1,0 +1,6 @@
+{application, sh,
+ [
+  {description, "Shell Command Wrapper"},
+  {vsn, "0.0.1"},
+  {applications, [kernel, stdlib]}
+ ]}.
